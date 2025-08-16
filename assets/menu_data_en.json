@@ -1,0 +1,221 @@
+{
+  "Beef Burgers": [
+    {
+      "name": "Double Lath3a Smash",
+      "description": "Two 120g beef patties with special burger sauce, cheddar cheese and caramelized onions",
+      "price": "27 SAR",
+      "image": "سماش_لذعة_دبل.jpg"
+    },
+    {
+      "name": "Lath3a Keto Double Smash",
+      "description": "Two 120g beef patties without bread stuffed with lettuce, special burger sauce and cheddar cheese",
+      "price": "27 SAR",
+      "image": "لذعة_كيتو_دبل_سماش.jpg"
+    },
+    {
+      "name": "Lath3a Al-Dahiya",
+      "description": "Large 250g beef patty with caramelized onions, two mozzarella sticks, onion rings, bacon, special burger sauce, cheddar cheese with lettuce and tomatoes",
+      "price": "55 SAR",
+      "image": "لذعة_الداهية.jpg"
+    }
+  ],
+  "Chicken Burgers": [
+    {
+      "name": "Lath3a Crispy Chicken",
+      "description": "Chicken burger patty with our special blend, fried or grilled as desired, with special burger sauce, cheddar cheese, lettuce, tomatoes and coleslaw",
+      "price": "25 SAR",
+      "image": "لذعة_دجاج_كرسبي.jpg"
+    },
+    {
+      "name": "Lath3a Grilled Chicken",
+      "description": "Chicken burger patty with our special blend grilled on the griddle with lettuce and tomatoes",
+      "price": "25 SAR",
+      "image": "لذعة_دجاج_مشوي.jpg"
+    },
+    {
+      "name": "Lath3a Keto Chicken",
+      "description": "Chicken burger patty with our special blend without bread stuffed with lettuce, special burger sauce, cheddar cheese, lettuce, tomatoes and coleslaw",
+      "price": "25 SAR",
+      "image": "لذعة_كيتو_دجاج.jpg"
+    }
+  ],
+  "Sandwiches": [
+    {
+      "name": "Super Zinger (Spicy)",
+      "description": "Chicken burger patty with our special blend, fried or grilled, with tomatoes, lettuce, special burger sauce, cheddar cheese and caramelized onions",
+      "price": "27 SAR",
+      "image": "سوبر_زنجر_حار.jpg"
+    },
+    {
+      "name": "Mexican Hot Dog Sandwich",
+      "description": "Delicious Mexican sausage sandwich grilled over fire with peppers and large potatoes",
+      "price": "27 SAR",
+      "image": "ساندويتش_مكسيكي_هوت_دوج.jpg"
+    },
+    {
+      "name": "Eastern Sausage Sandwich",
+      "description": "Delicious meat sausage sandwich with lettuce, tomatoes, peppers and onions",
+      "price": "27 SAR",
+      "image": "ساندويتش_سجق_شرقي.jpg"
+    },
+    {
+      "name": "Crispy Shrimp Sandwich",
+      "description": "Fried shrimp sandwich with our special sauce, cheese slices and hot sauce",
+      "price": "32 SAR",
+      "image": "ساندويتش_جمبري_كرسبي.jpg"
+    },
+    {
+      "name": "Chicken Pizza Sandwich",
+      "description": "Delicious chicken pizza sandwich with mozzarella, our special sauce, peppers, sausage, pastrami, olives and chicken fajita",
+      "price": "30 SAR",
+      "image": "ساندويتش_تشيكن_بيتزا.jpg"
+    },
+    {
+      "name": "Philly Steak Sandwich",
+      "description": "Famous Philly steak sandwich, stuffed with tender beef slices, caramelized onions, grilled bell peppers, and melted cheese, in fresh crispy bread",
+      "price": "29 SAR",
+      "image": "ساندويتش_فيلي_ستيك.jpg"
+    }
+  ],
+  "Kids Meals": [
+    {
+      "name": "Kids Grilled Beef Burger Meal",
+      "description": "60g beef patty with lettuce, tomatoes, special burger sauce and cheddar cheese with fries and apple juice or water of your choice",
+      "price": "19 SAR",
+      "image": "وجبة_طفل_برجر_لحم_مشوي.jpg"
+    },
+    {
+      "name": "Kids Chicken Burger Meal",
+      "description": "Chicken burger patty with our special blend, fried or grilled, with tomatoes, lettuce, special burger sauce and cheddar cheese with fries and apple juice or water of your choice",
+      "price": "19 SAR",
+      "image": "وجبة_طفل_برجر_دجاج.jpg"
+    },
+    {
+      "name": "Chicken Nuggets",
+      "description": "Delicious chicken nugget pieces with fries and bread",
+      "price": "14 SAR",
+      "image": "تشكن_ناجت.jpg"
+    }
+  ],
+  "Salads": [
+    {
+      "name": "Caesar Salad",
+      "description": "",
+      "price": "21 SAR",
+      "image": "سلطة_سيزر.jpg"
+    },
+    {
+      "name": "Arugula and Beet Salad",
+      "description": "",
+      "price": "17 SAR",
+      "image": "سلطة_الجرجير_والبنجر.jpg"
+    },
+    {
+      "name": "Coleslaw Salad",
+      "description": "Fresh and refreshing coleslaw salad",
+      "price": "8 SAR",
+      "image": "سلطة_كول_سلو.png"
+    }
+  ],
+  "Side Orders": [
+    {
+      "name": "Chicken Strips",
+      "description": "Delicious chicken strips 3 pieces with fries and bread",
+      "price": "19 SAR",
+      "image": "تشيكن_ستربس.jpg"
+    },
+    {
+      "name": "Mozzarella Sticks 3 pieces",
+      "description": "",
+      "price": "12 SAR",
+      "image": "موزاريلا_ستيك_3_قطع.jpg"
+    },
+    {
+      "name": "Jalapeño Cheese 4 pieces",
+      "description": "",
+      "price": "10 SAR",
+      "image": "هالبينو_تشيز_4_قطع.jpg"
+    },
+    {
+      "name": "Grilled Corn",
+      "description": "",
+      "price": "9 SAR",
+      "image": "ذرة_مشوية.jpg"
+    },
+    {
+      "name": "French Fries",
+      "description": "",
+      "price": "8 SAR",
+      "image": "بطاطس.jpg"
+    },
+    {
+      "name": "Onion Rings",
+      "description": "",
+      "price": "10 SAR",
+      "image": "حلقات_بصل.jpg"
+    },
+    {
+      "name": "Cheese Fries",
+      "description": "",
+      "price": "15 SAR",
+      "image": "تشيز_فرايز.jpg"
+    }
+  ],
+  "Beverages": [
+    {
+      "name": "Milkshake",
+      "description": "Optional flavors: Vanilla - Strawberry - Snickers - Lotus - Twix - KitKat",
+      "price": "18 SAR",
+      "image": "ميلك_شيك.jpg"
+    },
+    {
+      "name": "7UP Mojito",
+      "description": "Optional flavors: Blueberry - Strawberry - Passion Fruit - Watermelon - Pomegranate - Peach",
+      "price": "16 SAR",
+      "image": "موهيتو_سفن_اب.jpg"
+    },
+    {
+      "name": "Colored Mojito",
+      "description": "Optional flavors: Blueberry - Strawberry - Passion Fruit - Watermelon - Pomegranate - Peach",
+      "price": "18 SAR",
+      "image": "موهيتو_كودرد.jpg"
+    },
+    {
+      "name": "Pepsi",
+      "description": "",
+      "price": "4 SAR",
+      "image": "بيبسي.jpg"
+    },
+    {
+      "name": "Diet Pepsi",
+      "description": "",
+      "price": "4 SAR",
+      "image": "بيبسي_دايت.jpg"
+    },
+    {
+      "name": "7UP",
+      "description": "",
+      "price": "4 SAR",
+      "image": "سفن_اب.jpg"
+    },
+    {
+      "name": "Diet 7UP",
+      "description": "",
+      "price": "4 SAR",
+      "image": "سفن_اب_دايت.jpg"
+    },
+    {
+      "name": "KDD Apple Juice",
+      "description": "",
+      "price": "4 SAR",
+      "image": "عصير_تفاح_kdd.jpg"
+    },
+    {
+      "name": "Water 330ml",
+      "description": "",
+      "price": "2 SAR",
+      "image": "ماء_330_مل.jpg"
+    }
+  ]
+}
+
